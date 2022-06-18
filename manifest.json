@@ -1,0 +1,9 @@
+{
+	"manifest_version":3,
+	"name": "emptyNewTab",
+	"description": "replaces default new tab page with empty.html",
+	"version":"1.0",
+	"chrome_url_overrides":{
+		"newtab": "empty.html"
+	}
+}
