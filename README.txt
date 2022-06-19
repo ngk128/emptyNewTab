@@ -5,7 +5,7 @@ How To Install:
 2. Turn on Developer Mode.
 3. Click the "Load unpacked" button.
 4. Select the folder containing emptyNewTab.
-5. Open a new tab and click the "Keep" button.
+5. Open a new tab and click the "Keep it" button.
 
 How To Uninstall:
 1. To uninstall go to extensions and click the "Remove" button.
